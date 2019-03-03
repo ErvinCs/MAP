@@ -4,4 +4,4 @@ Provides a GUI to follow the execution steps. <br/>
 **Learned**
 * Java 8 features
 * JavaFX 
-* A high-level udnerstanding of how an interpreter operates
+* A high-level understanding of how an interpreter operates
