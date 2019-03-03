@@ -1,7 +1,7 @@
 # Toy-language interpreter
 An interpreter for a custom programming language. <br/>
 Provides a GUI to follow the execution steps. <br/>
-**Learned**
+**Learned:**
 * Java 8 features
 * JavaFX 
 * A high-level understanding of how an interpreter operates
